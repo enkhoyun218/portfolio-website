@@ -78,8 +78,5 @@
   },
   "resolutions": {
     "sharp": "0.30.7"
-  },
-  "engines": {
-    "node": "16.x"
   }
 }

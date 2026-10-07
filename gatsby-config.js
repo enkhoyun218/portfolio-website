@@ -5,7 +5,7 @@ module.exports = {
     title: 'Enkh-Oyun Tsend-Ayush',
     description:
       'Enkh-Oyun Tsend-Ayush is a data science and business student at Minerva University, building toward financial crime and data analytics: fraud, AML, and forensic data.',
-    siteUrl: 'https://oyun-portfolio.vercel.app', // No trailing slash allowed!
+    siteUrl: 'https://portfolio-website-blue-two-70.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [

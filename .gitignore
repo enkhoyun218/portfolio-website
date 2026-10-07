@@ -12,3 +12,5 @@ package-lock.json
 
 # Local assistant notes (contain personal details)
 CLAUDE.md
+.vercel
+.env*
