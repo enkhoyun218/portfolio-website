@@ -119,26 +119,26 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi! I’m Enkh-Oyun, a Data Science and Finance student at Minerva University in San
+              Hi! I’m Enkh-Oyun, a data science and business student at Minerva University in San
               Francisco.
             </p>
 
             <p>
-              I’m building a career in financial crime, AML, and fraud analytics because it combines
-              large amounts of data, patterns hidden in networks, and problems that affect people’s
-              livelihoods.
+              I’m building a career in financial crime, AML, and fraud analytics because it brings
+              together the things I care about most: large amounts of data, patterns hidden inside
+              networks, and problems that affect real people.
             </p>
 
             <p>
-              This summer I was a PMO intern at LACERA, where I built the reporting foundation for the
-              Disability Retirement Services division. Outside of class, I study financial crime cases and experiment with
-              Neo4j and machine learning. My latest project, AML Graph, models money laundering as a
-              transaction network.
+              This summer I was a PMO intern at LACERA, where I built the Power BI reporting that
+              replaced hours of manual analyst work for the Systems Division. Outside of class I
+              study financial crime cases and build with Neo4j and machine learning. My latest
+              project, AML Graph, models money laundering as a transaction network.
             </p>
 
             <p>
-              I’m also a Teaching Assistant for Minerva’s Cornerstone Civic Project and
-              previously worked as a Resident Assistant. I speak English, Mongolian, and Russian.
+              I’m also a Teaching Assistant for Minerva’s Civic Project Program, and I previously
+              worked as a Resident Assistant. I speak English, Mongolian, and Russian.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

@@ -61,17 +61,18 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Enkh-Oyun Tsend-Ayush.</h2>;
+  // TODO: tagline placeholder, Oyun to finalize
   const three = <h3 className="big-heading">I work where finance meets data.</h3>;
   const four = (
     <>
       <p>
-        I’m a Data Science and Business student at Minerva University, building toward a career in
-        financial crime analytics. I work with graph analysis, SQL, and machine learning to detect
-        fraud and money laundering. Right now I’m focused on{' '}
+        I’m a data science and business student at Minerva University building toward a career in
+        financial crime analytics. I use graph analysis, SQL, and machine learning to find fraud and
+        money laundering in data. Right now I’m focused on{' '}
         <a href="https://github.com/enkhoyun218/aml-graph" target="_blank" rel="noreferrer">
           AML Graph
         </a>
-        , a money-laundering detection project built on Neo4j.
+        , a money-laundering detection project built on Neo4j and Cypher.
       </p>
     </>
   );

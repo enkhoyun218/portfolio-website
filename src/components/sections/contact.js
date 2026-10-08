@@ -61,9 +61,9 @@ const Contact = () => {
 
       <p>
         I’m looking for a Summer 2027 internship in fraud, AML, financial crime analytics, data
-        science, data analytics, or finance. I’m also open to related areas like risk, compliance,
-        and forensic analytics. If you’re working in this space, or you just want to say hi, my
-        inbox is open.
+        science, data analytics, or finance, and I’m open to related work in risk, compliance, and
+        forensic analytics. If you’re working in this space, or you just want to say hi, my inbox
+        is always open.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
